@@ -1,2 +1,3 @@
-# lazyload-wordpress-content
-Lazy loading images for WordPress content themes
+# «Ленивая загрузка» изображений в WordPress
+
+https://chomovva.ru/ru/blog/leniva-zagruzka-zagruzka-izobrazhenij-v-wordpress/
